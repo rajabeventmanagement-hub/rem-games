@@ -7,9 +7,9 @@ const games = [
   },
   {
     id: 2,
-    title: "Car Racing",
-    image: "https://via.placeholder.com/300",
-    link: "https://example.com/car"
+    title: "Learning Puzzle",
+    image: "/puzzle",
+    link: "https://learning-puzzle.vercel.app/r"
   },
   {
     id: 3,
