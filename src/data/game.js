@@ -8,7 +8,7 @@ const games = [
   {
     id: 2,
     title: "Learning Puzzle",
-    image: "/puzzle.jpg",
+    image: "/puzzle.jpeg",
     link: "https://learning-puzzle.vercel.app/r"
   },
   {
