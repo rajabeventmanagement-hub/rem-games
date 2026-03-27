@@ -19,7 +19,7 @@ function GameCard({ game }) {
       <img
         src={game.image}
         alt={game.title}
-        className="rounded-t-2xl w-full h-30 object-cover"
+        className="rounded-t-2xl w-full h-60 object-cover"
       />
       <div className="p-4 text-center">
         <h2 className="text-lg font-bold text-white">{game.title}</h2>
