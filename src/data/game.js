@@ -2,13 +2,13 @@ const games = [
   {
     id: 1,
     title: "Catch The Fruit",
-    image: "/apple.png",
+    image: "/catch-apple.jpg",
     link: "https://catch-the-fruits-five.vercel.app/"
   },
   {
     id: 2,
     title: "Learning Puzzle",
-    image: "/puzzle.jpeg",
+    image: "/apple.png",
     link: "https://learning-puzzle.vercel.app/"
   },
   {
