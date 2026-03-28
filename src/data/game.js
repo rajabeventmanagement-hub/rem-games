@@ -2,7 +2,7 @@ const games = [
   {
     id: 1,
     title: "Catch The Fruit",
-    image: "/catch-apple.jpg",
+    image: "/apple.png",
     link: "https://catch-the-fruits-five.vercel.app/"
   },
   {
