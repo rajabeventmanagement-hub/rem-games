@@ -13,9 +13,9 @@ const games = [
   },
   {
     id: 3,
-    title: "Puzzle Game",
-    image: "https://via.placeholder.com/300",
-    link: "https://example.com/puzzle"
+    title: "Kiddy Kingdom",
+    image: "/kiddy-kingdom.jpeg",
+    link: "https://kiddy-kingdom.vercel.app/"
   }
 ];
 
